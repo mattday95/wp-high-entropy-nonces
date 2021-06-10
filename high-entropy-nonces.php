@@ -14,8 +14,8 @@
  *
  * @wordpress-plugin
  * Plugin Name:       High Entropy Nonces
- * Plugin URI:        https://github.com/mattday95
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Plugin URI:        https: //github.com/mattday95/wp-high-entropy-nonces
+ * Description:       Increases the Wordpress nonce length from 10->16 characters to help mitigate brute force attacks.
  * Version:           1.0.0
  * Author:            Matt Day
  * Author URI:        https://github.com/mattday95
